@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/jboss-fuse-6/fis-java-openshift:latest
+FROM docker-registry-default.reg.ocp.internal.spark.co.nz/openshift/fuse-java-openshift:1.1
 
 USER root
 
